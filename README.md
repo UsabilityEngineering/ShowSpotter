@@ -7,9 +7,9 @@ interface.
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
-* **Full Name 3** - Summary of contributions
+* **Luis Orozco** - Summary of contributions
+* **Rowelle Marino** - Summary of contributions
+* **Curtis Figgins** - Conducted interviews, created personas, scenarios, conclusion. 
 
 # User-Centered Design Artifacts
 
