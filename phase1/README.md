@@ -1,12 +1,43 @@
-# Team Name, Phase 1: Requirements Gathering
+### Phase I: Requirements Gathering
+
+# Show Spotter
+
+#### Curtis Figgins   Rowelle Marino   Luis Orozco
 
 ## Methods
+
+_Survey_: We chose surveys as one of our methods because it allows us to get lots of quantitative data easily. We can use them to get information about what streaming services people currently use and how they use them.
+n = 17
+
+Interview: Interviews allow us to ask questions that give us more in-depth answers that can be unique to each individual person and their experiences. This may bring up data that we wouldn’t normally get through just survey questions. 
+n = 4
 
 
 
 ## Findings
 Our survey with multiple choice questions, selecting options, and writing short answers supported our research to find how many streaming services personas are subscribed to and how engaged they are to using those services. Our results show about 41.2% are subscribed to 3-4 services that is 7 personas out of 17 who completed our survey. With feedback provided from this survey, we observed how beneducal personas can utilize Show Spotter. 
 
+How many streaming services are you subscribed to?
+
+| Services      | 0 | 1 | 2 | 3 | 4+ |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Count      | 2       |3      | 3       |   3   | 5       |
+
+How much do you pay each month for streaming services?
+
+| Amount Paid     | $0-$10 | $11-$15      | $15-$25 | $25-$50      | Other |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Count   | 7      |3      | 2       |3      | 2       |
+
+
+How much time to does it take to find a new show?
+
+| Time to Find      | 10-30min. | 30min-1hr.      | ~3 hours | 24hours+      |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Count | 9      |1      | 2       |5      |
+
+
+![image](https://user-images.githubusercontent.com/60239910/110847778-2ee38280-8262-11eb-9c27-710c3c54236b.png)
 
 
 ## Conclusions
