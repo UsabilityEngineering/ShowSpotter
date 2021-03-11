@@ -5,6 +5,7 @@
 
 
 ## Findings
+Our survey with multiple choice questions, selecting options, and writing short answers supported our research to find how many streaming services personas are subscribed to and how engaged they are to using those services. Our results show about 41.2% are subscribed to 3-4 services that is 7 personas out of 17 who completed our survey. With feedback provided from this survey, we observed how beneducal personas can utilize Show Spotter. 
 
 
 
