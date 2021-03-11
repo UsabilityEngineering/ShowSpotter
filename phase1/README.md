@@ -9,19 +9,16 @@
 
 * Investigated user experiences with streaming services to identify how to improve the process of finding shows.
 
-    * Gathered data to help us figure out **current problems in UI** and **discoverability of shows**
+    * Gathered data to help us figure out current problems in UI and discoverability of shows
 
-    * Creation of a website to **guide users through UI** or to allow them to **search for certain shows**, returning up-to-date info on **where the show is currently streaming**.
+    * Creation of a website to guide users through UI or to allow them to search for certain shows, returning up-to-date info on where the show is currently streaming.
 
-* **Online Questionnaire** of our class (n = 17) for quantitative data on how people use streaming services.
-    * **41.2% are subscribed to 3-4 streaming services**
+* Online Questionnaire of our class (n = 17) for quantitative data on how people use streaming services.
 
-
-* **Interviews** of our class (n = 4) for qualitative data for unique experiences of using streaming services.
-    * Users interested in our service **use streaming almost exclusively**
+* Interviews of our class (n = 4) for qualitative data for unique experiences of using streaming services.
 
 
-* **Personas and scenarios** represent three different users in differing circumstances, who might benefit from our application.
+* Personas and scenarios
 
     * Mike, 21, a college student who spends their evenings streaming shows after long days of class
 
@@ -42,7 +39,7 @@ n = 4
 
 
 ## Findings
-Our survey with multiple choice questions, selecting options, and writing short answers supported our research to find how many streaming services personas are subscribed to and how engaged they are to using those services. Our results show about 41.2% are subscribed to 3-4 services that is 7 personas out of 17 who completed our survey. With feedback provided from this survey, we observed how beneducal personas can utilize Show Spotter. 
+Our survey with multiple choice questions, selecting options, and writing short answers supported our research to find how many streaming services personas are subscribed to and how engaged they are to using those services. Our results show about 41.2% are subscribed to 3-4 services that is 7 personas out of 17 who completed our survey. With feedback provided from this survey, we observed how beneficial personas can utilize Show Spotter. 
 
 How many streaming services are you subscribed to?
 
