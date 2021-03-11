@@ -1,4 +1,4 @@
-# Replace this with the Project Name
+# Show Spotter
 
 It can be tedious to find where a movie or tv show is available to stream with all the different
 streaming services available and the different shows exclusive to each service. We want to
