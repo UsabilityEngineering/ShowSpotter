@@ -10,6 +10,7 @@
 
 ## Conclusions
 
+From our interviews and surveys we found that the users interested in our service use streaming almost exclusively. We’ve decided that we should just focus on movies and shows on streaming services and not including where to find them on cable or DVD. We also found that people don’t like how some streaming services are unstructured with how they show different categories on the homepage. We are going to allow users to customize their homepage with the categories they want and in the order they want. 
 
 
 ## Caveats
