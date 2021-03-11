@@ -1,6 +1,9 @@
 # Replace this with the Project Name
 
-Replace this text with a brief introduction to the problem space.
+It can be tedious to find where a movie or tv show is available to stream with all the different
+streaming services available and the different shows exclusive to each service. We want to
+create an easier way for people to find where these shows can be streamed all through one
+interface.
 
 ## Team Members
 
