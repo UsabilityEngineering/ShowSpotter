@@ -9,9 +9,9 @@
 
 * Investigated user experiences with streaming services to identify how to improve the process of finding shows.
 
-* * Gathered data to help us figure out current problems in UI and discoverability of shows
+    * Gathered data to help us figure out current problems in UI and discoverability of shows
 
-* * Creation of a website to guide users through UI or to allow them to search for certain shows, returning up-to-date info on where the show is currently streaming.
+    * Creation of a website to guide users through UI or to allow them to search for certain shows, returning up-to-date info on where the show is currently streaming.
 
 * Online Questionnaire of our class (n = 17) for quantitative data on how people use streaming services.
 
@@ -20,11 +20,11 @@
 
 * Personas and scenarios
 
-* * Mike, 21, a college student who spends their evenings streaming shows after long days of class
+    * Mike, 21, a college student who spends their evenings streaming shows after long days of class
 
-* * Sarah, 27, a homemaker with a child. When their child is asleep, they like to stream reality shows or watch cable.
+    * Sarah, 27, a homemaker with a child. When their child is asleep, they like to stream reality shows or watch cable.
 
-* * Albert, 76, retired. Enjoys streaming nostalgic shows with his wife, but is not very tech savvy.
+    * Albert, 76, retired. Enjoys streaming nostalgic shows with his wife, but is not very tech savvy.
 
 
 
