@@ -22,3 +22,7 @@
 
 
 Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc) as PDF documents.
+
+[Show_Spotter.pdf](https://github.com/UsabilityEngineering/ShowSpotter/files/6125499/Show_Spotter.pdf)
+
+[Show_Spotter_intQs.pdf](https://github.com/UsabilityEngineering/ShowSpotter/files/6125519/Show_Spotter_intQs.pdf)
