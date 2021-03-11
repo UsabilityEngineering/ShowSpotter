@@ -7,7 +7,7 @@ interface.
 
 ## Team Members
 
-* **Luis Orozco** - Summary of contributions
+* **Luis Orozco** - Gathered data by creating google forms (survey), findings, and partial in executive summary.
 * **Rowelle Marino** - Summary of contributions
 * **Curtis Figgins** - Conducted interviews, created personas, scenarios, conclusion. 
 
