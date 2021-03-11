@@ -20,6 +20,7 @@
 
 * **Interviews** of our class (n = 4) for qualitative data for unique experiences of using streaming services.
     * Users interested in our service use **streaming almost exclusively**
+    * People dislike how some streaming **services are unstructured** with **differing categories on the homepage**. 
 
 
 * **Personas and scenarios**
