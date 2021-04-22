@@ -12,6 +12,7 @@
    * Created **Wireframe Artboards**
       * Embedded images of proposed designs.
       * Wireframe designs justified by research data, personas and scenarios.
+      * The search feature is an example of our design strategy that offers users a way to find content. 
     
    * Started a draft of a **click-through prototype** of proposed service
       * Links to comprehensive wireframes and prototype draft.
