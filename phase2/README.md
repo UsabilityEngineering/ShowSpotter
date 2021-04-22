@@ -17,7 +17,7 @@
       * Links to comprehensive wireframes and prototype draft.
  
 
-### Artboards
+### Artboards and Justifications
 
 <p align = "center">Login Page</p>
 
@@ -31,15 +31,19 @@
 
 ![Main Page](https://user-images.githubusercontent.com/60239910/115742833-ea113800-a345-11eb-9147-36c6c3318355.png)
 
+We decided that the main page should follow the current heuristic for consistency and standards for streaming services. The reason for this is that we want users to feel 'at home' when they use our service. The design will feel familiar to them since it follows much of the same layout as the streaming services they would usually come from.
+
 <p align = "center">Search Page</p>
 
 ![Search Page](https://user-images.githubusercontent.com/60239910/115742961-0a40f700-a346-11eb-8346-bdcdc74c4464.png)
+
+For the search page, we want the results to be accurate to what the user wants. When first searching, it will take into account the keywords that the user searches for. After the results appear, there are also visible "Refine Search" options on the side. 
 
 <p align = "center">Clicking on a show</p>
 
 ![Clicking on a Show  FROM SEARCH](https://user-images.githubusercontent.com/60239910/115742991-1036d800-a346-11eb-99f9-9b5a73c8bb77.png)
 
-### Justifications
+After clicking on a show that the user wants to check out, it will bring them to the show page. The show page has a trailer with a big play button so that the user can preview the show. Along with a description of the show, the user can view the ratings and reviews. On the top right, there are buttons that let the user know which services they can watch the show on.
 
 ### Links
 
