@@ -39,7 +39,7 @@ We decided that the main page should follow the current heuristic for consistenc
 
 ![Search Page](https://user-images.githubusercontent.com/60239910/115742961-0a40f700-a346-11eb-8346-bdcdc74c4464.png)
 
-For the search page, we want the results to be accurate to what the user wants. When first searching, it will take into account the keywords that the user searches for. After the results appear, there are also visible "Refine Search" options on the side. 
+For the search page, we want the results to be accurate to what the user wants. When first searching, it will take into account the keywords that the user searches for. After the results appear, there are also visible "Refine Search" options on the side. Our website is made to help users find the shows they are looking for so the refine search option makes this process easier for them. Telling whether the user is subscribed to the service helps inform them before they click on the link which helps prevent user error.
 
 <p align = "center">Clicking on a show</p>
 
