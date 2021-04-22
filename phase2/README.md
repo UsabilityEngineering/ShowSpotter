@@ -27,6 +27,8 @@
 
 ![Create Account](https://user-images.githubusercontent.com/60239910/115742893-f8f7ea80-a345-11eb-844c-52a5aaa65d17.png)
 
+Our Login and Create Account pages are standard to what you would see on every other website. We wanted to do something that would be simple and familiar to nearly every user.
+
 <p align = "center">Main Page</p>
 
 ![Main Page](https://user-images.githubusercontent.com/60239910/115742833-ea113800-a345-11eb-9147-36c6c3318355.png)
