@@ -14,7 +14,7 @@ interface.
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](https://xd.adobe.com/view/ecaa195e-6179-4399-9ae0-ab5d48042bce-b9f9/?fullscreen)
+* [Wireframes](https://xd.adobe.com/view/ecaa195e-6179-4399-9ae0-ab5d48042bce-b9f9/)
 * [Prototype (Draft)](https://xd.adobe.com/view/ecaa195e-6179-4399-9ae0-ab5d48042bce-b9f9/?fullscreen&hints=off)
 
 # Phase 1: Requirements Gathering
