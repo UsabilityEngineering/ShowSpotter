@@ -54,3 +54,4 @@ This design ___
 Comprehensive Wireframes:
 
 Prototype Draft:
+Since this is a draft, not every button is fully functional. To add a category on the side bar, choose Hulu. To add a subcategory to Hulu, choose Action.
