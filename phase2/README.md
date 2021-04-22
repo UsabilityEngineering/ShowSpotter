@@ -31,7 +31,7 @@
 
 ![Main Page](https://user-images.githubusercontent.com/60239910/115742833-ea113800-a345-11eb-9147-36c6c3318355.png)
 
-We decided that the main page should follow the current heuristic for consistency and standards for streaming services. The reason for this is that we want users to feel 'at home' when they use our service. The design will feel familiar to them since it follows much of the same layout as the streaming services they would usually come from.
+We decided that the main page should follow the current heuristic for consistency and standards for streaming services. The reason for this is that we want users to feel 'at home' when they use our service. From our research, we found that the users interested in our service use streaming almost exclusively. The design will feel familiar to them since it follows much of the same layout as the streaming services they would come from. Additionally, some people did not like how unstructured the homepage is on most streaming services. They found it very random, so our homepage has options to pick and rearrange what the structure of the homepage should be.
 
 <p align = "center">Search Page</p>
 
