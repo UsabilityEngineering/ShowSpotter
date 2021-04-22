@@ -43,7 +43,9 @@ For the search page, we want the results to be accurate to what the user wants. 
 
 ![Clicking on a Show  FROM SEARCH](https://user-images.githubusercontent.com/60239910/115742991-1036d800-a346-11eb-99f9-9b5a73c8bb77.png)
 
-After clicking on a show that the user wants to check out, it will bring them to the show page. The show page has a trailer with a big play button so that the user can preview the show. Along with a description of the show, the user can view the ratings and reviews. On the top right, there are buttons that let the user know which services they can watch the show on.
+After clicking on a show that the user wants to check out, it will bring them to the show page. The show page has a trailer with a big play button so that the user can preview the show. Along with a description of the show, the user can view the ratings and reviews. On the top right, there are buttons that let the user know which services they can watch the show on. The buttons are dependent on which services the user is subscribed to. If the user is subscribed to a service that provides the show, the button will say "Watch Now," but if they are not, the button will say "Check it out on [Service]."
+
+This design ___
 
 ### Links
 
