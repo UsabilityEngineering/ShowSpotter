@@ -27,7 +27,9 @@ interface.
 
 # Phase 2: Interaction Design
 
-*Coming Soon*
+* Executive Summary of design,
+* Wireframe Artboards
+* Click-Through Prototype Link
 
 [Full phase 2 report](phase2/)
 
