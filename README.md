@@ -15,7 +15,7 @@ interface.
 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](#)
-* [Prototype](#)
+* [Prototype (Draft)](#)
 
 # Phase 1: Requirements Gathering
 
