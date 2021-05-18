@@ -57,4 +57,4 @@ get a general idea of how long it takes to complete.
 
 
 
-[Link to data collection](https://docs.google.com/spreadsheets/d/1NPHlq8AJrkLPIaopTqCFFZ1rRABsQXSCm-ZBkLn3VnE/edit?usp=sharing)
+[Link to data collection](phase3/Show Spotter Usability Test - Data.xlsx/)
