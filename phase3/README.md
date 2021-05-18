@@ -7,7 +7,7 @@
 ## Protocol Overview
 
 ### Task 1
-*Now, I want you to imagine that you are looking for a new show that was recommended by your friends. Walk me through how you would find the new show on this website and let me know when you have found your preferred show.*
+*Now, I want you to imagine that you have two kids and are looking for an animated show that will make your kids laugh. The services you are subscribed to are Netflix and Amazon Video.*
 
 *On a scale from 1-5, where 1 is “Very Difficult” and 5 is “Very Easy” how  would you rate being able to use this website design to accomplish this task? Why?*
 
