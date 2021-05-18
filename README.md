@@ -9,7 +9,7 @@ interface.
 
 * **Luis Orozco** - Gathered data by creating google forms (survey), findings, and partial in executive summary.
 * **Rowelle Marino** - Title, Executive Summary, Caveats, Tables, Markdown
-* [**Curtis Figgins**](https://usabilityengineering.github.io/ux-portfolio-cbfiggins/) - Conducted interviews, created personas, scenarios, conclusion. 
+* [**Curtis Figgins**](https://usabilityengineering.github.io/ux-portfolio-cbfiggins/) - Conducted interviews, created personas, scenarios, conclusion, wireframes and prototyping for login page, create account page and main page. 
 
 # User-Centered Design Artifacts
 
