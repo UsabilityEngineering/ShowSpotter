@@ -7,7 +7,7 @@
 ## Protocol Overview
 
 This study is a formative evaluation that will help us make any changes to our website before final release. We are taking a think-aloud approach so we can understand
-what the participant is thinking when making their decisions during the test. We are timing the tasks so we are aware that think-aloud will alter the time but we will still
+what the participant is thinking when making their decisions during the test. We are timing the tasks and we are aware that think-aloud will alter the time, but we will still
 get a general idea of how long it takes to complete. 
 
 ### Task 1
