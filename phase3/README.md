@@ -6,6 +6,9 @@
 
 ## Protocol Overview
 
+This study is a formative evaluation that will help us make any changes to our website before final release. We are taking a think-aloud approach so we can understand
+what the participant is thinking when making their decisions during the test.
+
 ### Task 1
 *Now, I want you to imagine that you have two young kids and are looking for an animated show that will make your kids laugh. The services you are subscribed to are Netflix and Amazon Video.*
 
