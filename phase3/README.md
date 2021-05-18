@@ -9,6 +9,8 @@
 ### Task 1
 Now, I want you to imagine that you are looking for a new show that was recommended by your friends. Walk me through how you would find the new show on this website and let me know when you have found your preferred show.
 
+1. On a scale from 1-5, where 1 is “Very Difficult” and 5 is “Very Easy” how  would you rate being able to use this website design to accomplish this task? Why?
+
 ### Task 2
 "Imagine you just set up your account and you want to add Hulu to your homepage. You heard from friends that Hulu has really good movies with fight scenes and you want to check some out."
 
