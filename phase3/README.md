@@ -11,6 +11,9 @@ This study is a formative evaluation that will help us make any changes to our w
 what the participant is thinking when making their decisions during the test. We are timing the tasks and we are aware that think-aloud will alter the time, but we will still
 get a general idea of how long it takes to complete. 
 
+### Background
+Our background questions are used to get some data about who our participant is so we can make sure we are getting data from participants with different backgrounds. 
+
 ### Task 1
 *Now, I want you to imagine that you have two young kids and are looking for an animated show that will make your kids laugh. The services you are subscribed to are Netflix and Amazon Video.*
 
