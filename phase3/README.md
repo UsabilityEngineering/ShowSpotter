@@ -1,3 +1,5 @@
 ## Phase 3: Usability Evaluation
 
-*Coming soon*
+# Show Spotter
+
+#### Curtis Figgins   Rowelle Marino   Luis Orozco
