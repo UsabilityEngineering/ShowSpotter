@@ -7,7 +7,9 @@
 ## Protocol Overview
 
 ### Task 1
-*Now, I want you to imagine that you have two kids and are looking for an animated show that will make your kids laugh. The services you are subscribed to are Netflix and Amazon Video.*
+*Now, I want you to imagine that you have two young kids and are looking for an animated show that will make your kids laugh. The services you are subscribed to are Netflix and Amazon Video.*
+
+The purpose of this task is to see how difficult it is for the participant is to search for a show and to see if they use the search filters. 
 
 *On a scale from 1-5, where 1 is “Very Difficult” and 5 is “Very Easy” how  would you rate being able to use this website design to accomplish this task? Why?*
 
