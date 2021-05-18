@@ -34,4 +34,11 @@ This question will give us feedback on what features could be good to add.
 
 This question will lets us know if the side bar is making their experience better or hindering it.
 
+*Now, I’d like to look back at certain parts of the search tool and get your thoughts on them:*
+
+This part of the wrap up is used to see how useful the search options are.
+
+
+
+
 [Link to data collection](https://docs.google.com/spreadsheets/d/1NPHlq8AJrkLPIaopTqCFFZ1rRABsQXSCm-ZBkLn3VnE/edit?usp=sharing)
