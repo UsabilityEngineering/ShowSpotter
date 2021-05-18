@@ -8,7 +8,7 @@
 ### Task 1
 
 ### Task 2
-Imagine you just set up your account and you want to add Hulu to your homepage. You heard from friends that Hulu has really good movies with fight scenes and you want to check some out.
+"Imagine you just set up your account and you want to add Hulu to your homepage. You heard from friends that Hulu has really good movies with fight scenes and you want to check some out."
 
 The purpose of this task is to see how difficult it is for the participant to learn how to use the side bar. 
 
