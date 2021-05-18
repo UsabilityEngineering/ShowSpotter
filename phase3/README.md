@@ -3,7 +3,7 @@
 # Show Spotter
 
 #### Curtis Figgins   Rowelle Marino   Luis Orozco
-
+[Link to Prototype](https://xd.adobe.com/view/a63f6b9d-3a99-481e-93e1-ad330d476dbb-f36c/)
 [Link to Protocol](ShowSpotterUsabilityTest.pdf)
 ## Protocol Overview
 
