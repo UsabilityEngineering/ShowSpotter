@@ -7,7 +7,7 @@ interface.
 
 ## Team Members
 
-* **Luis Orozco** - Gathered data by creating google forms (survey), findings, and partial in executive summary.
+* [**Luis Orozco**](https://github.com/UsabilityEngineering/ux-portfolio-1010l10.git)-Gathered data by creating google forms (survey), findings, and partial in executive summary.
 * [**Rowelle Marino**](https://usabilityengineering.github.io/ux-portfolio-roamar/) - Title, Executive Summaries, Caveats, Tables, Markdown, Wireframes and Prototyping for Search Pages and Base Show Page. 
 * [**Curtis Figgins**](https://usabilityengineering.github.io/ux-portfolio-cbfiggins/) - Conducted interviews, created personas, scenarios, conclusion, wireframes and prototyping for login page, create account page, overlays and main page. 
 
