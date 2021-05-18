@@ -11,6 +11,8 @@
 
 *On a scale from 1-5, where 1 is “Very Difficult” and 5 is “Very Easy” how  would you rate being able to use this website design to accomplish this task? Why?*
 
+We are hoping that this questions lets us gather data on how effective the search tools are to find shows. 
+
 ### Task 2
 *Imagine you just set up your account and you want to add Hulu to your homepage. You heard from friends that Hulu has really good movies with fight scenes and you want to check some out.*
 
