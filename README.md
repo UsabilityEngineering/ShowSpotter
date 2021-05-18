@@ -56,6 +56,12 @@ interface.
 
 # Phase 3: Usability Evaluation
 
-*Coming Soon*
+### Executive Summary - Show Spotter Evaluation
+
+   *  Links to the **protocol**, **prototype** and **data** of the Show Spotter Application
+   
+   *  **Tasks and questions** from protocol along with **what we hope to discover from it**
+   
+   *  An idea of our **overall approach** for the evaluation
 
 [Full phase 3 report](phase3/)
