@@ -16,4 +16,17 @@ The purpose of this task is to see how difficult it is for the participant to le
 
 We are hoping that this question lets us gather data on how effective the side bar is for customizing the homepage.
 
+### Wrap-Up
+"Now that you have used the website, I want to know more about your impressions of it. Overall, what did you like most about it?"
+
+This question will let us know if there is anything that may need edits and how satisfied the participant is with the website.  
+
+"What did you dislike the most about it?"
+
+This question will give us an idea of what features we may need to change.
+
+"Are there any additional features you would like for it to have?"
+
+This question will give us feedback on what features could be good to add. 
+
 [Link to data collection](https://docs.google.com/spreadsheets/d/1NPHlq8AJrkLPIaopTqCFFZ1rRABsQXSCm-ZBkLn3VnE/edit?usp=sharing)
