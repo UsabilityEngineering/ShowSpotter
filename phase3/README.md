@@ -29,4 +29,8 @@ This question will give us an idea of what features we may need to change.
 
 This question will give us feedback on what features could be good to add. 
 
+"On a scale from 1-5, where 1 is 'Strongly Disliked' and 5 is 'Strongly Liked' how  would you rate your experience using the sidebar of the website?  Why?"
+
+This question will lets us know if the side bar is making their experience better or hindering it.
+
 [Link to data collection](https://docs.google.com/spreadsheets/d/1NPHlq8AJrkLPIaopTqCFFZ1rRABsQXSCm-ZBkLn3VnE/edit?usp=sharing)
