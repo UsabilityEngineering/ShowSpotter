@@ -4,6 +4,7 @@
 
 #### Curtis Figgins   Rowelle Marino   Luis Orozco
 
+[Link to Protocol](ShowSpotterUsabilityTest.pdf)
 ## Protocol Overview
 
 This study is a formative evaluation that will help us make any changes to our website before final release. We are taking a think-aloud approach so we can understand
