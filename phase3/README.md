@@ -4,6 +4,7 @@
 
 #### Curtis Figgins   Rowelle Marino   Luis Orozco
 
+## Protocol Overview
 
 ### Task 1
 Now, I want you to imagine that you are looking for a new show that was recommended by your friends. Walk me through how you would find the new show on this website and let me know when you have found your preferred show.
@@ -36,7 +37,7 @@ This question will lets us know if the side bar is making their experience bette
 
 *Now, I’d like to look back at certain parts of the search tool and get your thoughts on them:*
 
-This part of the wrap up is used to see how useful the search options are.
+This part of the wrap-up is used to see how useful the search options are.
 
 
 
